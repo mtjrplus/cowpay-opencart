@@ -1,4 +1,4 @@
-# Opencart Cowpay
+# Cowpay opencart
 It is an opencart plugin to integrate your store with cowpay payment gateway
 
 ### Installation steps
